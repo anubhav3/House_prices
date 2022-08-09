@@ -11,6 +11,6 @@ Predicting sales price of a house from its features
 
 ## Results
 
-* RMSE of Generalise Linear model = 213620
+* RMSE of Generalised linear model = 213620
 
 

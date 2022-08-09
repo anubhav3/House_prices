@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Prediciting sales price of a houses from its features
+Predicting sales price of a house from its features
